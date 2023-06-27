@@ -1,4 +1,4 @@
-.include "cMips.asm"
+.include "BMips.asm"
 int_main
 int i
 int je
